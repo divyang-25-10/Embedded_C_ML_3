@@ -1,0 +1,2 @@
+# Embedded_C_ML_3
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/2431f803b7cb4f83aea854196bd70816)](https://app.codacy.com/manual/divyang-25-10/Embedded_C_ML_3?utm_source=github.com&utm_medium=referral&utm_content=divyang-25-10/Embedded_C_ML_3&utm_campaign=Badge_Grade_Dashboard)
